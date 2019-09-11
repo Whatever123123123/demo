@@ -1,14 +1,22 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "name": "Max",
+    "email": "maximilian@whatever.ch",
+    "userId": 101
+  },
+  {
+    "name": "Sarah",
+    "email": "Sarah@whatever.ch",
+    "userId": 102
+  },
+  {
+    "name": "Peter",
+    "email": "Peter@whatever.ch",
+    "userId": 103
+  },
+  {
+    "name": "Test",
+    "email": "Test@whatever.ch",
+    "userId": 104
   }
-}
+]
