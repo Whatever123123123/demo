@@ -1,4 +1,5 @@
-  {
+ [ 
+   {
     "name": "Max",
     "email": "maximilian@whatever.ch",
     "userId": 101
@@ -18,3 +19,4 @@
     "email": "Test@whatever.ch",
     "userId": 104
   }
+]
